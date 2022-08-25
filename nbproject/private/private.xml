@@ -4,18 +4,22 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess_system/Program.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess_system/UI.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessMatch.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessPiece.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/Queen.java</file>
             <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/Position.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessException.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessPosition.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/Board.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/BoardException.java</file>
             <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/King.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/Rook.java</file>
-            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/Piece.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/Board.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessException.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessMatch.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessPosition.java</file>
             <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/Color.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/Rook.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/Pawn.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/Knight.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess_system/UI.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/ChessPiece.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/chess/pieces/Bishop.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/BoardException.java</file>
+            <file>file:/C:/Users/higor/OneDrive/Área%20de%20Trabalho/Curso%20Java%20UDEMY/PROJETO%20-%20Jogo%20de%20xadrez/chess_system/src/boardGame/Piece.java</file>
         </group>
     </open-files>
 </project-private>
